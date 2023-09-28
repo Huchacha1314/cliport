@@ -409,3 +409,10 @@ Changes: Used as is in [unet.py](cliport/models/core/unet.py). Note: This part o
 ## Questions or Issues?
 
 Please file an issue with the issue tracker.  
+
+
+# Note
+1. update the version of some requirments in the req file.
+
+2. [ packaging.version.InvalidVersion: Invalid version: '0.10.1,<0.11' ](https://github.com/CompVis/latent-diffusion/issues/207)
+
